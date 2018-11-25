@@ -1,1 +1,4 @@
 When would you want to create a remote repository rather then keeping all your work local?
+Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
+ => Para que eu possa decidir o que deve ou não ir.
+ 
